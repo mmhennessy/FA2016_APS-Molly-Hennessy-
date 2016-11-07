@@ -48,8 +48,8 @@ header li a:hover {
 }
 
 header li:hover ul {
-  display: block;
-  position: absolute;
+  /*display: block;*/
+  /*position: absolute;*/
 }
 
 header li:hover li {
@@ -152,4 +152,3 @@ p{
 }
 
 }
-
