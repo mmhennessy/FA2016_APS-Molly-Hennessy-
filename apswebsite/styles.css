@@ -183,6 +183,7 @@ p{
     top: 50%;
     left: 0%;
     clear: both;
+    z-index: -1000;
 }
 
 .campfire html {
@@ -467,4 +468,3 @@ p{
 }
 
 }
-

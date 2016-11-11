@@ -4,11 +4,11 @@
 		<link type="text/css" rel="stylesheet" href="styles.css">
 </head>
 
-		<header>
+
 
 			<?php include 'menu.php'; ?>
 
-		</header>
+		
 
 		<body>
 

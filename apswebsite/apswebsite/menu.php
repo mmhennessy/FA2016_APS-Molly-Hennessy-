@@ -1,3 +1,5 @@
+<header>
+
 <h1>Exploring the Wilderness</h1>
 
   <ul>
@@ -25,3 +27,5 @@
         </ul>
       </li>
     </ul>
+
+</header>

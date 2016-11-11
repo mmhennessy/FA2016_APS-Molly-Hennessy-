@@ -11,13 +11,11 @@
 
 </head>
 
-<header>
+
 
 		<?php include 'menu.php'; ?>
 
 
-
-</header>
 
 <body>
 <form action="my-form.php">
