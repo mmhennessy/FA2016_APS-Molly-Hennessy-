@@ -6,8 +6,6 @@
 
 		<header>
 
-			<h1>Exploring the Wilderness</h1>
-			
 			<?php include 'menu.php'; ?>
 
 
