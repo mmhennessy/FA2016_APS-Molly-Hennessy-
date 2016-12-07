@@ -8,21 +8,21 @@
 
 			<?php include 'menu.php'; ?>
 
-		</header>	
+		</header>
 
-		<body>	
+		<body>
 
 			<h2>Welcome to our site!</h2>
 
 				<p>Wilderness travel is a popular pastime. However, there are many hazrds and choices that can deterome the outcome of a trip an explorer may face. This website covers the topics of climate, travel tips as well as health and safety concerns. If you have any questions or comments please contact us via our contact page.</p>
 
-		<section class="slides">	
+		<section class="slides">
 
             <img class="a" src="images/grass.jpg" alt="Photo of Savannah">
             <img class="b" src="images/paradise.jpg" alt="Photo of Tropical Rain Forrest">
             <img class="c" src="images/tents.jpg" alt="Photo of Tents">
-            <img class="d" src="images/gear.jpg" alt="Photo of Camping Gear">   
-            
+            <img class="d" src="images/gear.jpg" alt="Photo of Camping Gear">
+
 		</section>
 
 <!--This is sample of the animation I would like to use. source:
@@ -64,10 +64,10 @@
 
 </section>
 
-         <link type="text/js" rel="stylesheet" href="jquery.js">
-         <link type="text/js" rel="stylesheet" href="aps.js">
+                <script src="jquery.js"></script>
+                <script src="aps.js"></script>
 
 
-		</body>
+        </body>
 
-</html>		
+</html>
