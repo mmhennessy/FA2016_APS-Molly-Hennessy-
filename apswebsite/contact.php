@@ -1,9 +1,9 @@
 <html>
-<html lang="en">
-
 <head>
 
 	<meta charset="UTF-8">
+
+	<Lang= "en">
 
 	<title>Questions</title>
 
@@ -12,6 +12,7 @@
 </head>
 
 <header>
+
 
 		<?php include 'menu.php'; ?>
 
@@ -30,9 +31,9 @@
 			Your Email<input Type="text" name="Your Email"><br>
 			Comment or Question<input Type="text" name="Your Question"><br>
 				</select> <br>
-			</p>
+		</p>
 
-			<p><input type="submit" name="submit" value="Submit"></p>
+		<p><input type="submit" name="submit" value="Submit"></p>
 
 	</form>	
 

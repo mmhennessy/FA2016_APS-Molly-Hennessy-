@@ -8,8 +8,6 @@
 
 			<?php include 'menu.php'; ?>
 
-
-
 		</header>	
 
 		<body>	
@@ -18,7 +16,7 @@
 
 			<h2>Health Concerns</h2>
 
-				<img id="kit" src="images/kit.jpg">
+				<img id="kit" src="images/kit.jpg" alt="First-Aid">
 
 				<p>Destinations where accommodation, hygiene and sanitation, medical care and water quality are of a high standard pose relatively few serious risks to the health of travelers, except those with pre-existing illness. The same is true of business travelers and tourists visiting most major cities and tourist centers and staying in good-quality accommodation. In contrast, destinations where accommodation is of poor quality, hygiene and sanitation are inadequate, medical services do not exist and clean water is unavailable may pose serious risks for the health of travelers. This applies, for example, to personnel from emergency relief and development agencies and to tourists who venture into remote areas. In these settings, stringent precautions must be taken to avoid illness. Travel warnings from governmental sources should be taken seriously; they are likely to have implications for travel and for travel insurance. </p>
 

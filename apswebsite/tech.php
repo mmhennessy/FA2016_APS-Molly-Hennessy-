@@ -6,9 +6,7 @@
 
 		<header>
 
-				<?php include 'menu.php'; ?>
-
-
+			<?php include 'menu.php'; ?>
 
 		</header>	
 
@@ -18,7 +16,7 @@
 
 			<h2>Technology and Preparation</h2>
 
-				<img src="images/woods.jpg">
+				<img src="images/woods.jpg" alt="Wilderness">
 
 				<p>Wilderness travel is solitary, demanding yet it can bring you some of the most spectacular natural views you will ever see. This can make it seem ideal for many seasoned travelers looking for a new way to experience the world. However, before you head off on a wilderness adventure, be sure to keep a few things in mind. Wilderness travel presents obstacles that you may never have faced, so be sure you know what you are getting yourself into before you head off on the trek of a lifetime!</p>
 

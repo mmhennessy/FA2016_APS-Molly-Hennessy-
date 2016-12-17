@@ -5,7 +5,7 @@
 </head>
 
 		<header>
-
+			
 			<?php include 'menu.php'; ?>
 
 		</header>	
@@ -16,7 +16,7 @@
 
 			<h2>What to do if you become lost or stranded</h2>
 
-				<img id="sign" src="images/sign.jpg">
+				<img id="sign" src="images/sign.jpg" alt="Trail Sign">
 
 				<p>Do you know the difference between "lost" and "stranded?" Lost is not knowing where you are nor which way you should go. Stranded is [usually] knowing where you are but no one else seems to know where you are. Now according to most survival books, websites and search & rescue (SAR) teams... RULE # 1 - Before you take off and go anywhere you should tell someone (a) where you are going and (b) what time you will be back or be arriving at your final destination. Just in case you don't make it back or to your final destination within a certain time a search and rescue (SAR) party will know where to start looking for you. </p>
 

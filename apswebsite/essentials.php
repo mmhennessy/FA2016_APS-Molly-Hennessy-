@@ -5,7 +5,7 @@
 </head>
 
 		<header>
-			
+
 			<?php include 'menu.php'; ?>
 
 		</header>	
@@ -16,7 +16,7 @@
 
 			<h2>Ten Essentials of Travel</h2>
 
-				<img src="images/camping.jpg">			
+				<img src="images/camping.jpg" alt="Camping">			
 
 				<h3>Navigation</h3>
 
