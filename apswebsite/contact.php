@@ -20,7 +20,7 @@
 </header>	
 
 <body>
-<form action="my-form.php">
+	<form action="my-form.php">
 
 		<h2>Have questions or comments?</h2>
 
